@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Yeifer 👋
 
-<!--
-**YeiferGarcia/YeiferGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full Stack Developer** — React · Next.js · TypeScript · Node.js · Firebase · AWS
 
-Here are some ideas to get you started:
+Llevo más de 10 años construyendo productos digitales: plataformas CMS, CRM y ERP,
+aplicaciones móviles y arquitecturas serverless que hoy están en producción
+sirviendo a empresas y organizaciones internacionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Logroño, España · abierto a remoto y reubicación
+- 💼 Actualmente: Full Stack Developer & Fundador en [BeGraffic](https://www.begraffic.com)
+- 📫 yeifer@begraffic.com · [LinkedIn](https://www.linkedin.com/in/yeifergarcia/)
+
+## Stack
+
+**Frontend** — React, Next.js, TypeScript, Vue, Tailwind CSS, React Native (Expo)
+
+**Backend** — Node.js, PHP, REST APIs, Cloud Functions, arquitecturas serverless
+
+**Cloud** — Firebase (Auth, Firestore, Functions), AWS (Lambda, S3, SQS, SES, SNS, CloudFront)
+
+**Datos** — Firestore, MySQL, MongoDB
+
+**Calidad e integraciones** — Vitest, Sentry, Zod, ESLint · Stripe, Mapbox, OpenAI, Anthropic
+
+## Proyectos destacados
+
+| Repo | Qué demuestra |
+| --- | --- |
+| [nextjs-firebase-saas-starter](https://github.com/YeiferGarcia/nextjs-firebase-saas-starter) | SaaS completo: auth, suscripciones Stripe, entitlements testeados y CI con GitHub Actions |
+
+> Los productos en los que trabajo a diario (Be CMS, Be Marketing, Be Finance, Be Ticket…)
+> son código privado de clientes; estos repos públicos muestran cómo trabajo.
