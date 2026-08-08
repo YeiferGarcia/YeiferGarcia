@@ -27,6 +27,8 @@ sirviendo a empresas y organizaciones internacionales.
 | Repo | Qué demuestra |
 | --- | --- |
 | [nextjs-firebase-saas-starter](https://github.com/YeiferGarcia/nextjs-firebase-saas-starter) | SaaS completo: auth, suscripciones Stripe, entitlements testeados y CI con GitHub Actions |
+| [aws-serverless-notifications](https://github.com/YeiferGarcia/aws-serverless-notifications) | Arquitectura event-driven en AWS: SQS con DLQ, idempotencia con DynamoDB, SES e IaC con SAM |
+| [askrepo](https://github.com/YeiferGarcia/askrepo) | CLI de IA: selección determinista de contexto y streaming con Anthropic/OpenAI |
 
 > Los productos en los que trabajo a diario (Be CMS, Be Marketing, Be Finance, Be Ticket…)
 > son código privado de clientes; estos repos públicos muestran cómo trabajo.
